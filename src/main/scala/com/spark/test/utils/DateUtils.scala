@@ -1,7 +1,5 @@
 package com.spark.test.utils
 
-
-
 import java.util.Date
 
 import org.apache.commons.lang3.time.FastDateFormat
